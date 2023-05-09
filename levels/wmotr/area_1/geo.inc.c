@@ -8,7 +8,7 @@ const GeoLayout wmotr_area_1_geo[] = {
 			GEO_DISPLAY_LIST(LAYER_TRANSPARENT, wmotr_dl_machinima_castle_mesh_layer_5),
 			GEO_DISPLAY_LIST(LAYER_ALPHA, wmotr_dl_machinima_castle_mesh_layer_4),
 		GEO_CLOSE_NODE(),
-		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, 298, -376, -2324, 90, 0, -69, wmotr_dl_machinima_castle_001_mesh_layer_1),
+		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, 298, -376, -2324, 90, 0, -69, wmotr_dl_machinima_castle_002_mesh_layer_1),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_TRANSPARENT, 3953, -440, -47, wmotr_dl_Water_Box_Mesh_mesh_layer_5),
 	GEO_CLOSE_NODE(),
 	GEO_RETURN(),
