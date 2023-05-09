@@ -19,6 +19,7 @@
 - Collebello/Huge Town
 - Barn
 - Churchester
+- Machinima Castle
 ```
 
 - For installation instructions, please refer to the [Saturn wiki](https://github.com/Llennpie/Saturn/wiki).
