@@ -98,6 +98,11 @@ u8 bob_dl_custom_34CB6131_c_rgba16[] = {
 	#include "levels/bob/custom_34CB6131_c.rgba16.inc.c"
 };
 
+Gfx bob_dl_custom_463FD8B5_c_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 bob_dl_custom_463FD8B5_c_rgba16[] = {
+	#include "levels/bob/custom_463FD8B5_c.rgba16.inc.c"
+};
+
 Gfx bob_dl_custom_5660AB2C_c_rgba16_aligner[] = {gsSPEndDisplayList()};
 u8 bob_dl_custom_5660AB2C_c_rgba16[] = {
 	#include "levels/bob/custom_5660AB2C_c.rgba16.inc.c"

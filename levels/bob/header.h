@@ -8,6 +8,7 @@ extern const GeoLayout bob_geo_000440[];
 extern const GeoLayout bob_geo_000458[];
 extern const GeoLayout bob_geo_000470[];
 extern const GeoLayout bob_geo_000488[];
+extern const GeoLayout koopa_flag_geo[];
 
 // leveldata
 extern const Gfx bob_seg7_dl_07004390[];
