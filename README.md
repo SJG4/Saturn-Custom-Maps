@@ -10,7 +10,7 @@
 
 
 
-### Maps & Credits (So far)
+### Maps & Credits
 
 - Glowshire & City Plaza - [Weegeepie](https://www.youtube.com/@WeegeepieYT)
 - Snowy Town - [MrGameAndSketch](https://www.youtube.com/@MrGameAndSketch)
