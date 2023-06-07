@@ -10,16 +10,16 @@
 
 
 
-### Maps (So far)
+### Maps & Credits (So far)
 
 ```
-- Glowshire
-- Snowy Town
-- Mario's House (both Exterior and Interior)
-- Collebello/Huge Town
-- Barn
-- Churchester
-- Machinima Castle
+- Glowshire & City Plaza - [Weegeepie](https://www.youtube.com/@WeegeepieYT)
+- Snowy Town - [MrGameAndSketch](https://www.youtube.com/@MrGameAndSketch)
+- Mario's House (both Exterior and Interior) - [StupidMarioBros1Fan](https://www.youtube.com/@StupidMarioBros1Fan)
+- Collebello/Huge Town - Alessio
+- Barn - [SuperMario9080](https://www.youtube.com/@SuperMario9080)
+- Churchester - [Antipius](https://twitter.com/ZenonDeinon)
+- Machinima Castle - i have no idea
 ```
 
 - For installation instructions, please refer to the [Saturn wiki](https://github.com/Llennpie/Saturn/wiki).
