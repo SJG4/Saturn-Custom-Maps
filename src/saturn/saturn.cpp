@@ -562,7 +562,7 @@ const char* saturn_get_stage_name(int courseNum) {
         case LEVEL_BITFS: return "Bowser in the Fire Sea"; break;
         case LEVEL_SL: return "Snowman's Land"; break;
         case LEVEL_WDW: return "Wet-Dry World"; break;
-        case LEVEL_TTM: return "Tall, Tall Mountain"; break;
+        case LEVEL_TTM: return "City Plaza"; break;
         case LEVEL_THI: return "Churchester"; break;
         case LEVEL_TTC: return "Tick Tock Clock"; break;
         case LEVEL_WMOTR: return "Machinima Castle"; break;
