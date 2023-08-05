@@ -33,24 +33,9 @@ u8 bob_dl_custom_9522CE9_c_rgba16[] = {
 	#include "levels/bob/custom_9522CE9_c.rgba16.inc.c"
 };
 
-Gfx bob_dl_custom_17097993_c_rgba16_aligner[] = {gsSPEndDisplayList()};
-u8 bob_dl_custom_17097993_c_rgba16[] = {
-	#include "levels/bob/custom_17097993_c.rgba16.inc.c"
-};
-
-Gfx bob_dl_custom_54FB2A6_c_rgba16_aligner[] = {gsSPEndDisplayList()};
-u8 bob_dl_custom_54FB2A6_c_rgba16[] = {
-	#include "levels/bob/custom_54FB2A6_c.rgba16.inc.c"
-};
-
 Gfx bob_dl_custom_7DBFA49F_c_rgba16_aligner[] = {gsSPEndDisplayList()};
 u8 bob_dl_custom_7DBFA49F_c_rgba16[] = {
 	#include "levels/bob/custom_7DBFA49F_c.rgba16.inc.c"
-};
-
-Gfx bob_dl_custom_17F1C616_c_rgba16_aligner[] = {gsSPEndDisplayList()};
-u8 bob_dl_custom_17F1C616_c_rgba16[] = {
-	#include "levels/bob/custom_17F1C616_c.rgba16.inc.c"
 };
 
 Gfx bob_dl_custom_2808C46B_c_rgba16_aligner[] = {gsSPEndDisplayList()};

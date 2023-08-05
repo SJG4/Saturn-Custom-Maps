@@ -3,12 +3,12 @@
 const GeoLayout bob_area_1_geo[] = {
 	GEO_NODE_START(),
 	GEO_OPEN_NODE(),
-		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_TRANSPARENT, -1978, 62, -725, 83, -26, 0, bob_dl_glowshire_mesh_layer_5),
+		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_TRANSPARENT, -1541, 46, -611, 83, -26, 0, bob_dl_glowshire_mesh_layer_5),
 		GEO_OPEN_NODE(),
 			GEO_LEVEL_DISPLAY_LIST(LAYER_OPAQUE, bob_dl_glowshire_mesh_layer_1),
 			GEO_LEVEL_DISPLAY_LIST(LAYER_ALPHA, bob_dl_glowshire_mesh_layer_4),
 		GEO_CLOSE_NODE(),
-		GEO_TRANSLATE_NODE_WITH_DL(LAYER_TRANSPARENT, 2561, -278, 80, bob_dl_Water_Box_Mesh_mesh_layer_5),
+		GEO_TRANSLATE_NODE_WITH_DL(LAYER_TRANSPARENT, 2442, -252, 95, bob_dl_Water_Box_Mesh_mesh_layer_5),
 	GEO_CLOSE_NODE(),
 	GEO_RETURN(),
 };
