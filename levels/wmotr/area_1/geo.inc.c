@@ -3,8 +3,6 @@
 const GeoLayout wmotr_area_1_geo[] = {
 	GEO_NODE_START(),
 	GEO_OPEN_NODE(),
-		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, 317, -376, -2327, 90, 0, -69, wmotr_dl_chair_mesh_layer_1),
-		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, 317, -376, -2364, 90, 0, -69, wmotr_dl_chairs_mesh_layer_1),
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_TRANSPARENT, 1020, -673, 394, 90, 0, 0, wmotr_dl_Inside_Castle_Machinima_mesh_layer_5),
 		GEO_OPEN_NODE(),
 			GEO_DISPLAY_LIST(LAYER_OPAQUE, wmotr_dl_Inside_Castle_Machinima_mesh_layer_1),
@@ -28,7 +26,7 @@ const GeoLayout wmotr_area_1[] = {
 		GEO_OPEN_NODE(),
 			GEO_CAMERA_FRUSTUM_WITH_FUNC(45.0000, 100, 30000, geo_camera_fov),
 			GEO_OPEN_NODE(),
-				GEO_CAMERA(CAMERA_MODE_FREE_ROAM, 0, 0, 0, 0, -100, 0, geo_camera_main),
+				GEO_CAMERA(CAMERA_MODE_CLOSE, 0, 0, 0, 0, -100, 0, geo_camera_main),
 				GEO_OPEN_NODE(),
 					GEO_BRANCH(1, wmotr_area_1_geo),
 					GEO_RENDER_OBJ(),

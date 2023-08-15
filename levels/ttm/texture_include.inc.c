@@ -423,3 +423,43 @@ u8 ttm_dl_custom_95_rgba16[] = {
 	#include "levels/ttm/custom_95.rgba16.inc.c"
 };
 
+Gfx ttm_dl_custom_55_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_55_rgba16[] = {
+	#include "levels/ttm/custom_55.rgba16.inc.c"
+};
+
+Gfx ttm_dl_custom_56_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_56_rgba16[] = {
+	#include "levels/ttm/custom_56.rgba16.inc.c"
+};
+
+Gfx ttm_dl_custom_57_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_57_rgba16[] = {
+	#include "levels/ttm/custom_57.rgba16.inc.c"
+};
+
+Gfx ttm_dl_custom_58_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_58_rgba16[] = {
+	#include "levels/ttm/custom_58.rgba16.inc.c"
+};
+
+Gfx ttm_dl_custom_59_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_59_rgba16[] = {
+	#include "levels/ttm/custom_59.rgba16.inc.c"
+};
+
+Gfx ttm_dl_custom_60_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_60_rgba16[] = {
+	#include "levels/ttm/custom_60.rgba16.inc.c"
+};
+
+Gfx ttm_dl_custom_61_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_61_rgba16[] = {
+	#include "levels/ttm/custom_61.rgba16.inc.c"
+};
+
+Gfx ttm_dl_custom_82_rgba16_aligner[] = {gsSPEndDisplayList()};
+u8 ttm_dl_custom_82_rgba16[] = {
+	#include "levels/ttm/custom_82.rgba16.inc.c"
+};
+
